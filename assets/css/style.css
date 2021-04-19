@@ -85,7 +85,7 @@ p {
   font-size: 1.2rem;
 }
 
- .btn-back:hover {
+.btn-back:hover {
   color: var(--primary);
   background-color: var(--tertiary);
   transform: translate(0, 0);
