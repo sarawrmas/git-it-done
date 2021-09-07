@@ -8,7 +8,7 @@
 * [Credits](#credits)
 
 ## Deployed
-Access the website at [https://sarawrmas.github.io/git-it-done/](https://sarawrmas.github.io/git-it-done/)
+Access the website at https://sarawrmas.github.io/git-it-done/
 
 ## Technologies
 * HTML
