@@ -2,27 +2,37 @@
 
 ## Table of Contents
 * [Deployed](#deployed)
-* [Technologies](#technologies)
 * [Description](#description)
+* [Technologies](#technologies)
+* [Usage](#usage)
+* [Preview](#preview)
 * [Questions](#questions)
 * [Credits](#credits)
 
 ## Deployed
 Access the website at https://sarawrmas.github.io/git-it-done/
 
+## Description
+Are you looking to contribute to other developers' projects, but not sure where to start? Git It Done lets you search for GitHub projects by username or topic and view projects with open issues.
+
 ## Technologies
 * HTML
 * CSS
 * JavaScript
 
-## Description
-Are you looking to contribute to other developers' projects, but not sure where to start? Git It Done lets you search for GitHub projects by username or topic.
+## Usage
+To search for a specific GitHub user, use the "Search By User" textbox to enter their username. Submit your search using the "Get User" button.
 
-Want to contribute to a known developer? Enter their username and you can see which of their projects have open issues.
+To search by language or technology, select your chosen topic from the "Search By Topic" selection in the left pane.
 
-Looking to make a contribution but don't have a specific user in mind? Select from a list of languages and tools to find open issues that fit your experience.
+After submitting a search from one of these choices, the results will list in the page body. Projects with open issues will show a box with a red X along with the number of open issues. If a project has no open issues, it will display a blue checkbox.
 
-Once you find a project that intrigues you, click on it to view the list of open issues. From there, selecting an issue will take you directly to the repo that the issue belongs to.
+Click on any project in the result list to view all of its open issues on a separate page. Once on that project's page, click on any issue to view it directly on GitHub.
+
+From the results page, select "Go Back" to return to the search page.
+
+## Preview
+![screenshot](assets/images/screenshot.png)
 
 ## Questions
 Have questions about this project?  
